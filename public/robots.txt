@@ -1,7 +1,0 @@
-User-agent: *
-
-Disallow: /en/404
-
-Disallow: /it/404
-
-Sitemap: https://example.com//sitemap.xml
