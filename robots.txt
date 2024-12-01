@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /en/404
+
+Disallow: /it/404
+
+Sitemap: https://github.com/lumentranslation/testwebsite.github.io//sitemap.xml
